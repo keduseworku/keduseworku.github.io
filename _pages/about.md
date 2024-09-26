@@ -8,7 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>William H. Miller III Dept of Physics & Astronomy</p>
+    <p>William H. Miller III</p>
+    <p>Dept of Physics & Astronomy</p>
     <p>Johns Hopkins University</p>
     <p>3400 N. Charles St., Baltimore, MD 21218, USA</p>
 
