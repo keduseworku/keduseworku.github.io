@@ -63,3 +63,9 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<!-- Image Credits Section -->
+<div class="image-credits">
+  <h2>Image Credits</h2>
+  <p>JWST Image: [Meena et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract)</p>
+</div>
