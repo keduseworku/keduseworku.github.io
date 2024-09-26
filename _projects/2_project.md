@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JWST gravitationally lensed galaxies during the EoR
-description: We investigated high-redshift galaxies with redshifts ranging from 6 to 10 using JWST observations of the galaxy cluster MACS0647. The cluster gravitationally lenses the surrounding field, enabling detailed exploration of the first galaxies formed during the Epoch of Reionization, with our spectra revealing insights into their metallicities, star formation rates, and dust.
+description: We explored high-redshift galaxies with redshifts ranging from 6 to 10 using JWST observations of the galaxy cluster MACS0647. The cluster gravitationally lenses the surrounding field, enabling detailed exploration of the first galaxies formed during the Epoch of Reionization, with our spectra revealing insights into their metallicities, star formation rates, and dust.
 img: assets/img/MACS0647_lens_map.jpg
 importance: 2
 category: Ongoing
