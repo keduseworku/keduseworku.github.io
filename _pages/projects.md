@@ -66,10 +66,11 @@ horizontal: false
 
 <!-- Image Credits Section -->
 <div class="image-credits" style="margin-top: 20px;">
-  <h4 style="font-size: 0.8em; margin-bottom: 5px;">Image Credits</h4>
-  <p style="font-size: 0.8em; margin-top: 5px;">JWST lensing map: <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract">Meena et al. 2023</a></p>
-  <p style="font-size: 0.8em; margin-top: 5px;">ACT Y-map: <a href="https://inspirehep.net/literature/2674592">Coulton et al. 2023</a></p>
-  <p style="font-size: 0.8em; margin-top: 5px;">ISW effect: <a href="https://briankoberlein.com/blog/stoking-the-fire">Szapudi</a></p>
+  <h4 style="font-size: 1em; margin-bottom: 5px;">Image Credits</h4> <!-- Increased font size -->
+  <p style="font-size: 0.8em; margin-top: 0; margin-bottom: 5px;">JWST lensing map: <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract">Meena et al. 2023</a></p>
+  <p style="font-size: 0.8em; margin-top: 0; margin-bottom: 5px;">ACT Y-map: <a href="https://inspirehep.net/literature/2674592">Coulton et al. 2023</a></p>
+  <p style="font-size: 0.8em; margin-top: 0; margin-bottom: 5px;">ISW effect: <a href="https://briankoberlein.com/blog/stoking-the-fire">Szapudi</a></p>
 </div>
+
 
 
