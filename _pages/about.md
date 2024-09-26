@@ -1,15 +1,14 @@
 ---
 layout: about
-title: about
+title: Keduse Worku
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>William H.\ Miller III Department of Physics \& Astronomy</p>
+    <p>William H. Miller III Department of Physics & Astronomy</p>
     <p>Johns Hopkins University</p>
     <p>3400 N. Charles St., Baltimore, MD 21218, USA</p>
 
