@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Early Universe Signatures Affecting 21cm Emission in Cosmic Dawn
+description: This project explores the imprints of early universe physics on 21 cm observables using Zeus21, which effectively captures the nonlinear dynamics of cosmic dawn. We investigate how these influences manifest in the resulting 21-cm signal, providing insights into cosmic reionization and structure formation.
+img: assets/img/Hydrogen-SpinFlip.png
 importance: 3
-category: Past
+category: Ongoing
 ---
 
 Every project has a beautiful feature showcase page.
