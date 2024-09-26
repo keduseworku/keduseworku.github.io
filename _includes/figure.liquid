@@ -16,20 +16,12 @@
     {% if site.imagemagick.enabled %}
       <source
         class="responsive-img-srcset"
-        {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.tiff' %}
+        {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.tiff' or ext == '.gif' %}
           srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"
           type="image/webp"
         {% else %}
           srcset="{{ include.path | relative_url }}"
         {% endif %}
-        
-        {% if ext == 'gif' %}
-          srcset="{{ include.path | relative_url }}"
-        {% else %}
-          srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"
-          type="image/webp"
-        {% endif %}
-
         {% if include.sizes %}
           sizes="{{include.sizes}}"
         {% else %}
