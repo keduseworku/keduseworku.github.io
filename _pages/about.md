@@ -8,10 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>William H. Miller III</p>
-    <p>Dept of Physics & Astronomy</p>
-    <p>Johns Hopkins University</p>
-    <p>3400 N. Charles St., Baltimore, MD 21218, USA</p>
+    <p>Bloomberg Center</p>
+    <p>San Martin Dr, Baltimore, MD 21210, USA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
