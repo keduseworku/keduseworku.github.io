@@ -69,7 +69,7 @@ horizontal: false
   <h4 style="font-size: 0.8em; margin-bottom: 5px;">Image Credits</h4>
   <p style="font-size: 0.8em; margin-top: 5px;">JWST lensing map: <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract">Meena et al. 2023</a></p>
   <p style="font-size: 0.8em; margin-top: 5px;">ACT Y-map: <a href="https://inspirehep.net/literature/2674592">Coulton et al. 2023</a></p>
-  <p style="font-size: 0.8em; margin-top: 5px;">ISW effect: <a href="https://briankoberlein.com/blog/stoking-the-fire">Coulton et al. 2023</a></p>
+  <p style="font-size: 0.8em; margin-top: 5px;">ISW effect: <a href="https://briankoberlein.com/blog/stoking-the-fire">Szapudi</a></p>
 </div>
 
 
