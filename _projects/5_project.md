@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Constraining dark energy EoS through ISW-tSZ cross correlations
+description: In this summer project, we harnessed the Integrated Sachs-Wolfe (ISW) and thermal Sunyaev-Zeldovich (tSZ) effects to constrain the Dark Energy Equation of State. By conducting cross correlations in the largest galaxy clusters observed through ACT and Planck, we sought to enhance our understanding of dark energy's role in the dynamics of cosmological expansion.
+img: assets/img/isw.png
+importance: 4
 category: Past
 ---
 
