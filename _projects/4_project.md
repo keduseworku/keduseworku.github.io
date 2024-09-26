@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CMB foreground constraints with ACT Y-maps
-description: Postbaccalaureate Research. We evaluated CMB data from Planck and ACT to constrain dust foregrounds by cross-correlating the Cosmic Infrared Background (CIB) with the thermal Sunyaev-Zeldovich (tSZ) effect. By leveraging high-resolution Y-maps from ACT alongside the local dust mapping properties of 21 cm HI maps, we improved CIB and dust contamination models for future CMB missions.
+description: Postbaccalaureate research. We evaluated CMB data from Planck and ACT to constrain dust foregrounds by cross-correlating the Cosmic Infrared Background (CIB) with the thermal Sunyaev-Zeldovich (tSZ) effect. By leveraging high-resolution Y-maps from ACT alongside the local dust mapping properties of 21 cm HI maps, we improved CIB and dust contamination models for future CMB missions.
 img: assets/img/ACT_y_map.png
 importance: 3
 category: Past
