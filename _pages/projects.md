@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Current and past cosmology work
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Past]
