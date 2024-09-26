@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: JWST gravitationally lensed galaxies during the EoR
+description: We investigated high-redshift galaxies with redshifts ranging from 6 to 10 using JWST observations of a galaxy cluster. The cluster gravitationally lenses the surrounding field, enabling detailed exploration of the first galaxies formed during the Epoch of Reionization, with our spectra revealing insights into their metallicities, star formation rates, and dust.
+img: assets/img/MACS0647_lens_map.jpg
 importance: 2
 category: Ongoing
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
