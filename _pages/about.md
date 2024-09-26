@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Keduse Worku
+title: About
 permalink: /
 
 profile:
