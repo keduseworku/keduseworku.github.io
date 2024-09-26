@@ -66,7 +66,7 @@ horizontal: false
 
 <!-- Image Credits Section -->
 <div class="image-credits" style="margin-top: 20px;">
-  <h4 style="font-size: 0.8em;">Image Credits</h4>
-  <h2>Image Credits</h2>
-  <p>JWST Image: [Meena et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract)</p>
+  <h4 style="font-size: 0.8em; margin-bottom: 5px;">Image Credits</h4>
+  <p style="font-size: 0.8em;">JWST Image: [Meena et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L...6M/abstract)</p>
 </div>
+
