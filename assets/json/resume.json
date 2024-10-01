@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Keduse Worku",
+    "label": "Cosmology PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kworku2@jhu.edu",
+    "phone": "",
+    "url": "https://keduseworku.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Bloomberg Cetner, San Martin Dr",
+      "postalCode": "MD 21210",
+      "city": "Baltimore",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Keduse Worku",
+        "url": "https://www.linkedin.com/in/keduse-worku-179381201"
       }
     ]
   },
@@ -47,15 +47,28 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD",
+      "url": "",
+      "area": "Astrophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "08/2022",
+      "endDate": "Present",
+      "score": "",
+      "courses": ""
+    }
+  ],
+  [
+    {
+      "institution": "Yale University",
+      "location": "New Haven, CT",
+      "url": "",
+      "area": "Astrophysics",
+      "studyType": "B.S.",
+      "startDate": "08/2017",
+      "endDate": "12/2021",
+      "score": "",
+      "courses": ""
     }
   ],
   "awards": [
