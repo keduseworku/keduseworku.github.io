@@ -71,13 +71,76 @@
       "courses": ""
     }
   ],
-  "awards": [
+  "fellowships and awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "LSSTC Data Science Fellowship",
+      "date": "2023-Present",
+      "awarder": "LSST-DA, the Brinson Foundation, and the Moore Foundation",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "William H. Miller III Fellowship",
+      "date": "2022-2024",
+      "awarder": "William H. Miller III Department of Physics & Astronomy, Johns Hopkins University",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "NASA MD Space Grant Consortium Graduate Fellowship",
+      "date": "2023",
+      "awarder": "NASA MD Space Grant Consortium",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "Yale College Edward A. Bouchet Undergraduate Fellowship",
+      "date": "2019-2021",
+      "awarder": "Yale University",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "Questbridge Scholar",
+      "date": "2017-2021",
+      "awarder": "NASA CT Space Grant Consortium",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "NASA CT Space Grant Consortium Undergraduate Scholarship x2",
+      "date": "2019, 2021",
+      "awarder": "NASA CT Space Grant Consortium",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "Yale University First-Year Summer Research Fellowship",
+      "date": "2018",
+      "awarder": "Yale University",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "Chambliss Astronomy Achievement Student Award - Honorable Mention",
+      "date": "2020",
+      "awarder": "American Astronomical Society",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "National Mentoring Community Conference - 1st Prize Poster Competition",
+      "date": "2020",
+      "awarder": "American Physical Society",
+      "url": "",
+      "summary": "'"
+    },
+    {
+      "title": "Yale University Arthur L. Shapiro Scholar",
+      "date": "2018",
+      "awarder": "Yale University",
+      "url": "",
+      "summary": "'"
     }
   ],
   "certificates": [
