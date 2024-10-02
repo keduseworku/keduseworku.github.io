@@ -95,7 +95,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -110,6 +110,8 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
+arxiv_url: https://arxiv.org/search/astro-ph?searchtype=author&query=Worku,+K
+cv_url: "https://keduseworku.github.io/assets/pdf/Keduse_Worku_CV_2024.pdf"
 
 #contact_note: >
   #You can even add a little note about which of these is the best way to reach you.
