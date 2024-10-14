@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Late-time non-linear signatures of relic Neutrinos
-description: Our code Cheetah an efficient N-1-body numerical framework to evaluate neutrino halo overdensities around spherical DM halos, producing results within seconds. The code’s efficient parallelization enables rapid scans of cosmological and DM parameters while easily incorporating new physics like altered neutrino distributions, making it highly effective for probing late-time neutrino effects like gravitational-lensing effects on CMB fluctuations. [https://arxiv.org/abs/2410.08267](https://arxiv.org/abs/2410.08267) 
+description: Our code Cheetah an efficient N-1-body numerical framework to evaluate neutrino halo overdensities around spherical DM halos, producing results within seconds. The code’s efficient parallelization enables rapid scans of cosmological and DM parameters while easily incorporating new physics like altered neutrino distributions, making it highly effective for probing late-time neutrino effects like gravitational-lensing effects on CMB fluctuations. [arXiv: 2410.08267](https://arxiv.org/abs/2410.08267) 
 img: assets/img/publication_preview/all_trajectories_animation.gif
 importance: 1
 category: Ongoing
