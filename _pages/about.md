@@ -14,10 +14,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, I'm Keduse, a final-year PhD student in astrophysics at Johns Hopkins University finishing in Summer 2026. I work on building computational and statistical models to understand complex systems under uncertainty, and I’m transitioning fully into Applied Scientist and Data Scientist roles in industry.
+I’m a final-year astrophysics PhD at Johns Hopkins University (finishing Summer 2026), working at the intersection of statistical modeling, Bayesian inference, and complex systems. Currently, I do AI model evaluation at Anthropic while transitioning into applied data science and ML roles in industry.
 
-Most of my work involves probabilistic modeling, large-scale simulation, and analyzing noisy, high-dimensional data where assumptions and validation really matter. During my PhD, I’ve built GPU-accelerated simulation pipelines in [JAX](https://github.com/NNSSA/Cheetah/tree/main), developed uncertainty-aware classification systems for large datasets, and worked extensively with Bayesian inference and time-series modeling.
+Most of my work involves pulling weak signals out of messy, high-dimensional systems. In practice, this has meant building probabilistic models, running large [simulations](https://github.com/NNSSA/Cheetah/tree/main), and wrangling observational datasets where uncertainty actually matters. I’ve applied these tools both to studying the early universe and, more recently, to financial modeling.
 
-I’ve also applied these skills in industry. Most recently, I worked in asset and liability modeling at New York Life, where I implemented callable bond pricing models under the Hull–White framework and developed numerical methods to support scalable fixed-income pricing workflows.
+I’m most excited by problems where prediction alone isn’t enough. I care about understanding how models behave, where they fail, and what tradeoffs matter.
 
-Alongside technical work, I care deeply about communication and collaboration. I enjoy translating complex models into clear, actionable insights, whether through research, cross-disciplinary work, or public science outreach.
+I also enjoy communicating these insights clearly, whether to fellow researchers, engineers, or anyone curious about the science.
