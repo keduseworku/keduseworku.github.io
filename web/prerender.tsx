@@ -1,0 +1,1 @@
+import React from 'react';import {renderToString} from 'react-dom/server';import Home from './app/page';import Research from './app/research';export const home=()=>renderToString(<Home/>);export const research=()=>renderToString(<Research/>);
