@@ -1,5 +1,6 @@
 'use client';
 
+import { CosmicDawnSteps } from './defense-material';
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
 
 const figures = {
@@ -52,6 +53,7 @@ export default function ResearchFigures() {
     </article>
     <article id="cosmic-dawn" className="research-feature dawn-feature">
       <div className="dawn-story"><div><p className="eyebrow">21-CM / COSMIC DAWN</p><h3>A different clock<br/>for the early universe.</h3></div><div><p>Primordial magnetic fields can change when early structure forms. In our models, that leaves a signature in the 21-cm signal from hydrogen.</p><p>Each color below represents a different magnetic-field amplitude. Follow how the troughs and peaks shift relative to the dashed, zero-field reference.</p></div></div>
+      <CosmicDawnSteps/>
       <PaperFigure name="dawn" />
       <div className="plot-reading"><p><strong>Left:</strong> the sky-averaged 21-cm brightness temperature.</p><p><strong>Right:</strong> the power in spatial fluctuations of that signal.</p><p><strong>Reading the axis:</strong> higher redshift means an earlier universe.</p></div>
       <a className="text-link" href="https://arxiv.org/abs/2605.05323" target="_blank" rel="noreferrer">Read the Cosmic Dawn paper ↗</a>
