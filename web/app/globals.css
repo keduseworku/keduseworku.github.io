@@ -130,3 +130,15 @@ header{background:linear-gradient(#05080ecf,transparent)}
 .neutrino-research{display:grid;grid-template-columns:1fr 1fr;gap:60px;scroll-margin-top:40px;border-top:1px solid #8eacc42b}.neutrino-research h2,.earlier-research h2{font-size:clamp(34px,4vw,56px);line-height:1.1}.research-prose p{font-size:18px;line-height:1.75;color:#cbd3dd;margin:0 0 22px}.research-prose .paper-citation{font-size:14px;color:#aebcd0;margin-top:36px}.research-prose h3{font-size:20px;line-height:1.45;font-weight:400;margin:0}.research-page .research-section{padding-top:70px}.earlier-research{border-top:1px solid #8eacc42b;display:grid;grid-template-columns:1fr 1fr;gap:25px 60px}.earlier-research>.eyebrow{grid-column:1/-1}.research-end{display:flex;flex-wrap:wrap;gap:25px;padding:40px 9%;border-top:1px solid #8eacc42b;font-size:14px}.research-end a:first-child{margin-right:auto}
 @media(max-width:700px){header{flex-wrap:wrap;gap:10px;padding:18px 6%}.wordmark-note{display:none!important}.site-links{gap:16px;font-size:14px}.motion-control{bottom:55px;left:6%;font-size:12px}.research-intro,.neutrino-research,.earlier-research{padding:50px 7%}.research-intro h1{font-size:44px}.neutrino-research,.earlier-research{grid-template-columns:1fr;gap:25px}.research-intro>p:not(.eyebrow),.research-prose p{font-size:17px}.research-end{padding:30px 7%}.research-page header{position:relative}}
 @media(prefers-reduced-motion:reduce){.motion-control{display:none}}
+
+/* Keep whole headline phrases together and reserve the footer's reading space. */
+.opening .personal-note{display:block;width:min(560px,43vw);max-width:none;container-type:inline-size}
+.opening .personal-note>.research-rule{display:none}
+.opening .personal-note>div{width:100%}
+.personal-note .two-line-heading{font-size:clamp(20px,5.5cqw,30px);line-height:1.2}
+.two-line-heading>span,.two-line-heading>em{display:block;white-space:nowrap}
+.opening .personal-note,.lens-exploration-note.personal-note{top:clamp(100px,calc(100svh - var(--note-height,360px) - 115px),58svh);max-height:calc(100svh - 215px);overflow:auto;padding-bottom:20px;scrollbar-width:thin}
+.lens-copy{container-type:inline-size;width:min(600px,43vw)}
+.lens-copy h2.two-line-heading{font-size:clamp(28px,11cqw,70px);line-height:1.08}
+@media(max-width:700px){.opening .personal-note{width:100%;max-width:100%}.lens-copy{width:100%;max-width:360px}.opening .personal-note,.lens-exploration-note.personal-note{top:clamp(95px,calc(100svh - var(--note-height,360px) - 115px),55svh);max-height:calc(100svh - 210px)}}
+@media(prefers-reduced-motion:reduce){.opening .personal-note{top:auto;max-height:none;overflow:visible}}
