@@ -144,3 +144,6 @@ header{background:linear-gradient(#05080ecf,transparent)}
 @media(prefers-reduced-motion:reduce){.opening .personal-note{top:auto;max-height:none;overflow:visible}}
 
 .personal-note p.story-followup{margin-top:18px}.lens-exploration-note.personal-note .text-link{font-family:Arial,Helvetica,sans-serif;letter-spacing:0;margin-top:22px}
+
+/* Consistent upright typography across both lines of each title. */
+h1 em,h2 em{font-family:inherit;font-style:normal;font-weight:inherit;letter-spacing:inherit;color:inherit}
