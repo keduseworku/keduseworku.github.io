@@ -142,3 +142,5 @@ header{background:linear-gradient(#05080ecf,transparent)}
 .lens-copy h2.two-line-heading{font-size:clamp(28px,11cqw,70px);line-height:1.08}
 @media(max-width:700px){.opening .personal-note{width:100%;max-width:100%}.lens-copy{width:100%;max-width:360px}.opening .personal-note,.lens-exploration-note.personal-note{top:clamp(95px,calc(100svh - var(--note-height,360px) - 115px),55svh);max-height:calc(100svh - 210px)}}
 @media(prefers-reduced-motion:reduce){.opening .personal-note{top:auto;max-height:none;overflow:visible}}
+
+.personal-note p.story-followup{margin-top:18px}.lens-exploration-note.personal-note .text-link{font-family:Arial,Helvetica,sans-serif;letter-spacing:0;margin-top:22px}
